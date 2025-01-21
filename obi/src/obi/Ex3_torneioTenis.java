@@ -31,6 +31,8 @@ public class Ex3_torneioTenis {
 		else {
 			System.out.println("-1");
 		}
+		
+		venceu.close();
 	}
 
 }

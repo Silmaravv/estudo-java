@@ -25,6 +25,8 @@ public class IdadededoMeio {
 	        }
 
 	        System.out.println("A idade de Camila é: " + idadeCamila);
+	        
+	        ler.close();
 	    }
 	
 	}

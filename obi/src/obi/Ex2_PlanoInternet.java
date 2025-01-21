@@ -24,5 +24,7 @@ public class Ex2_PlanoInternet {
 
         System.out.println("Quantidade de megabytes disponíveis no mês " +(nMeses+1) + ":");
         System.out.println(quotaAcumulada);
+        
+        ler.close();
     }
 }
