@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ex_14 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// Given an array of ints of odd length, look at the first, last, and middle values in the array and return the largest. The array length will be a least 1.
 		
 		 int [] numeros = new int[] {3,5,9};
 		    int primeiro = numeros[0];
